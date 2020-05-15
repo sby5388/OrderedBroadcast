@@ -1,0 +1,2 @@
+rootProject.name='有序广播'
+include ':app'
