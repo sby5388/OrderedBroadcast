@@ -18,7 +18,7 @@
             android:name=".DefaultReceiver"
             android:enabled="true"
             android:exported="false">
-            <intent-filter android:priority="-10000">
+            <intent-filter android:priority="-1000">
                 <action android:name="com.by5388.demo.orderedbroadcast.default_action" />
 
                 <data android:mimeType="text/plain" />
